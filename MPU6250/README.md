@@ -1,6 +1,9 @@
 /* Written By: Dnyanesh P. Joshi
+
 /* Date: 03/09/2015
+
 /* Description: MPU6250 driver for Raspberry Pi B+ 
+
 /* I2C bus 1 used on RPI 
  
 
