@@ -29,7 +29,7 @@
    Step 3) Install Python-smbus and i2c-tools 
    
    	   // Type	
-    	   sudo apt-get python-smbus i2c-tools 
+    	   sudo apt-get install python-smbus i2c-tools 
     
    Step 4) Now shutdown RPI and connect MPU9250 sensor to it 
    
